@@ -3264,7 +3264,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/kaanuygur/.config/NuGet/NuGet.Config"
+        "/Users/kaanuygur/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -3286,15 +3286,15 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "Jil": {
-            "target": "Package",
-            "version": "[2.15.4, )"
-          },
           "Microsoft.NETCore.App": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Jil": {
+            "target": "Package",
+            "version": "2.15.4"
           }
         },
         "imports": [
