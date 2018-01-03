@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45976149-95e1-49cd-a70c-6986095707fc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="QueryParameter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Filtering/QueryParameter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <marker date="1515016868114" expanded="true" signature="24:293" ph="{...}" />
+                <marker date="1515016868114" expanded="true" signature="58:291" ph="{...}" />
+                <marker date="1515016868114" expanded="true" signature="213:285" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IJsonSerializer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Serializer/IJsonSerializer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding>
+                <marker date="1515016725134" expanded="true" signature="25:167" ph="{...}" />
+                <marker date="1515016725134" expanded="true" signature="64:165" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JilSerializer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Serializer/JilSerializer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <marker date="1515016772471" expanded="true" signature="37:332" ph="{...}" />
+                <marker date="1515016772471" expanded="true" signature="88:330" ph="{...}" />
+                <marker date="1515016772471" expanded="true" signature="145:211" ph="{...}" />
+                <marker date="1515016772471" expanded="true" signature="262:324" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FilteringExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Filtering/FilteringExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+              <folding>
+                <marker date="1515016868123" expanded="true" signature="6:120" ph="..." />
+                <marker date="1515016868123" expanded="true" signature="146:1379" ph="{...}" />
+                <marker date="1515016868123" expanded="true" signature="192:1377" ph="{...}" />
+                <marker date="1515016868123" expanded="true" signature="313:1371" ph="{...}" />
+                <marker date="1515016868123" expanded="true" signature="452:1333" ph="{...}" />
+                <marker date="1515016868123" expanded="true" signature="806:968" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Extensions/ObjectExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding>
+                <marker date="1515016868132" expanded="true" signature="25:247" ph="{...}" />
+                <marker date="1515016868132" expanded="true" signature="68:245" ph="{...}" />
+                <marker date="1515016868132" expanded="true" signature="151:239" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Extensions/IntegerExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding>
+                <marker date="1515016868128" expanded="true" signature="25:184" ph="{...}" />
+                <marker date="1515016868128" expanded="true" signature="69:182" ph="{...}" />
+                <marker date="1515016868128" expanded="true" signature="124:176" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IEnumerableExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Extensions/IEnumerableExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="521">
+              <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding>
+                <marker date="1515016868131" expanded="true" signature="6:104" ph="..." />
+                <marker date="1515016868131" expanded="true" signature="131:1558" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="179:1556" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="240:312" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="379:451" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="511:568" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="639:696" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="806:1550" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="848:967" ph="{...}" />
+                <marker date="1515016868131" expanded="true" signature="1065:1379" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericExtension.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Extensions/GenericExtension.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <folding>
+                <marker date="1515016868125" expanded="true" signature="25:260" ph="{...}" />
+                <marker date="1515016868125" expanded="true" signature="69:258" ph="{...}" />
+                <marker date="1515016868125" expanded="true" signature="146:252" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnumExtension.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gizy/Extensions/EnumExtension.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <marker date="1515016868121" expanded="true" signature="40:317" ph="{...}" />
+                <marker date="1515016868121" expanded="true" signature="81:315" ph="{...}" />
+                <marker date="1515016868121" expanded="true" signature="132:309" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TypeExtensions.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gizy/Extensions/TypeExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="80" lean-forward="false" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+              <folding>
+                <marker date="1515016868127" expanded="true" signature="6:57" ph="..." />
+                <marker date="1515016868127" expanded="true" signature="84:2774" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="125:2772" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="218:521" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="328:442" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="599:2054" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="1052:2013" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="1437:1685" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="1877:1958" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="2116:2216" ph="{...}" />
+                <marker date="1515016868127" expanded="true" signature="2293:2766" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/StringExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/ObjectExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/IntegerExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/IEnumerableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/GenericExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/EnumExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Filtering/QueryParameter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Filtering/FilteringExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Serializer/JilSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Serializer/IJsonSerializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gizy/Extensions/TypeExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gizy/Extensions/GenericExtension.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/IntegerExtensions.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/LoggerExtension.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/ObjectExtensions.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Serializer/IJsonSerializer.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Serializer/JilSerializer.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Filtering/FilteringExtensions.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Filtering/QueryParameter.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/StringExtensions.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/IEnumerableExtensions.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/EnumExtension.cs" />
+        <option value="$PROJECT_DIR$/Gizy/Extensions/TypeExtensions.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1200" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gizy (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gizy (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gizy" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gizy (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gizy" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Extensions" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gizy (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gizy" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Filtering" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Gizy (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Gizy" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Serializer" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45976149-95e1-49cd-a70c-6986095707fc" name="Default" comment="" />
+      <created>1515015878875</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515015878875</updated>
+      <workItem from="1515015880492" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="979000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25239617" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Gizy/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/LoggerExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/StringExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="197" column="27" lean-forward="false" selection-start-line="197" selection-start-column="27" selection-end-line="197" selection-end-column="27" />
+          <folding>
+            <marker date="1515016780940" expanded="true" signature="6:160" ph="..." />
+            <marker date="1515016780940" expanded="true" signature="187:6160" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="230:6158" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="368:585" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="416:512" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="650:731" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="819:1401" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="867:924" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="991:1063" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="1233:1290" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="1500:2278" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="1548:1605" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="1672:1744" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="1914:1971" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2075:2232" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2140:2218" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2379:2905" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2427:2484" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2551:2623" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2793:2850" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="2959:3415" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="3007:3065" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="3107:3374" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="3492:3593" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="3667:3767" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="3842:4064" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="3890:3948" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="4159:4857" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="4207:4265" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="4313:4397" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="4454:4564" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="4918:5003" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="5089:5234" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="5329:6152" ph="{...}" />
+            <marker date="1515016780940" expanded="true" signature="5432:6108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/ObjectExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <marker date="1515016868132" expanded="true" signature="25:247" ph="{...}" />
+            <marker date="1515016868132" expanded="true" signature="68:245" ph="{...}" />
+            <marker date="1515016868132" expanded="true" signature="151:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/IntegerExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <marker date="1515016868128" expanded="true" signature="25:184" ph="{...}" />
+            <marker date="1515016868128" expanded="true" signature="69:182" ph="{...}" />
+            <marker date="1515016868128" expanded="true" signature="124:176" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/IEnumerableExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1515016868131" expanded="true" signature="6:104" ph="..." />
+            <marker date="1515016868131" expanded="true" signature="131:1558" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="179:1556" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="240:312" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="379:451" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="511:568" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="639:696" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="806:1550" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="848:967" ph="{...}" />
+            <marker date="1515016868131" expanded="true" signature="1065:1379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/GenericExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <folding>
+            <marker date="1515016868125" expanded="true" signature="25:260" ph="{...}" />
+            <marker date="1515016868125" expanded="true" signature="69:258" ph="{...}" />
+            <marker date="1515016868125" expanded="true" signature="146:252" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Filtering/FilteringExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="17" lean-forward="false" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+          <folding>
+            <marker date="1515016868123" expanded="true" signature="6:120" ph="..." />
+            <marker date="1515016868123" expanded="true" signature="146:1379" ph="{...}" />
+            <marker date="1515016868123" expanded="true" signature="192:1377" ph="{...}" />
+            <marker date="1515016868123" expanded="true" signature="313:1371" ph="{...}" />
+            <marker date="1515016868123" expanded="true" signature="452:1333" ph="{...}" />
+            <marker date="1515016868123" expanded="true" signature="806:968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Filtering/QueryParameter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <marker date="1515016868114" expanded="true" signature="24:293" ph="{...}" />
+            <marker date="1515016868114" expanded="true" signature="58:291" ph="{...}" />
+            <marker date="1515016868114" expanded="true" signature="213:285" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Serializer/IJsonSerializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding>
+            <marker date="1515016725134" expanded="true" signature="25:167" ph="{...}" />
+            <marker date="1515016725134" expanded="true" signature="64:165" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Serializer/JilSerializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1515016772471" expanded="true" signature="37:332" ph="{...}" />
+            <marker date="1515016772471" expanded="true" signature="88:330" ph="{...}" />
+            <marker date="1515016772471" expanded="true" signature="145:211" ph="{...}" />
+            <marker date="1515016772471" expanded="true" signature="262:324" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/EnumExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1515016868121" expanded="true" signature="40:317" ph="{...}" />
+            <marker date="1515016868121" expanded="true" signature="81:315" ph="{...}" />
+            <marker date="1515016868121" expanded="true" signature="132:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gizy/Extensions/TypeExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="80" lean-forward="false" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
+          <folding>
+            <marker date="1515016868127" expanded="true" signature="6:57" ph="..." />
+            <marker date="1515016868127" expanded="true" signature="84:2774" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="125:2772" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="218:521" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="328:442" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="599:2054" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="1052:2013" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="1437:1685" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="1877:1958" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="2116:2216" ph="{...}" />
+            <marker date="1515016868127" expanded="true" signature="2293:2766" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+/Users/kaanuygur/GitRepo/Gizy/Gizy/bin/Debug/netcoreapp2.0/Gizy.deps.json
+/Users/kaanuygur/GitRepo/Gizy/Gizy/bin/Debug/netcoreapp2.0/Gizy.dll
+/Users/kaanuygur/GitRepo/Gizy/Gizy/bin/Debug/netcoreapp2.0/Gizy.pdb
+/Users/kaanuygur/GitRepo/Gizy/Gizy/obj/Debug/netcoreapp2.0/Gizy.csproj.CoreCompileInputs.cache
+/Users/kaanuygur/GitRepo/Gizy/Gizy/obj/Debug/netcoreapp2.0/Gizy.AssemblyInfoInputs.cache
+/Users/kaanuygur/GitRepo/Gizy/Gizy/obj/Debug/netcoreapp2.0/Gizy.AssemblyInfo.cs
+/Users/kaanuygur/GitRepo/Gizy/Gizy/obj/Debug/netcoreapp2.0/Gizy.dll
+/Users/kaanuygur/GitRepo/Gizy/Gizy/obj/Debug/netcoreapp2.0/Gizy.pdb
